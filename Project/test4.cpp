@@ -3,11 +3,10 @@
 #include <cstring>
 #include <cmath>
 using namespace std;
-//测试
+
 class Change
 {
 public:
-    void test();
     void Menu();
 
 
